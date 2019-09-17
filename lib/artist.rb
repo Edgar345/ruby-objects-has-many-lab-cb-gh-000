@@ -12,4 +12,6 @@ class Artist
   end
 
   def add_song song  #song object
+
+  end
 end
