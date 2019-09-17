@@ -20,6 +20,10 @@ class Artist
     self.add_song song
   end
 
+  def artist_name
+
+  end
+
   def self.song_count
     Song.all.size
   end
